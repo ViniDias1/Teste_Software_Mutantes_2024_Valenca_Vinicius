@@ -123,6 +123,6 @@ O código fornece uma série de testes unitários para a classe `Funcionario`, u
 
 - Mutações com o código original![alt text](image.png)
 
-- Mutações com testes adicionados ![alt text](image-1.png)
+- Mutações com testes adicionados 
 
 ---

@@ -66,7 +66,7 @@ O código define uma classe `Funcionario` que representa um funcionário com alg
 - **`decrescimo_salario`**: Aplica um desconto de 10% no salário se o funcionário for um "sócio".
 - **`calcular_bonus`**: Calcula um bônus de 10% sobre o salário. Se o valor do bônus for maior que 1000, lança uma exceção.
 
-## Etapa 7: Resumo do Código de Testes
+## Etapa 7: Resumo do Código de Testes Originais
 
 O código fornece uma série de testes unitários para a classe `Funcionario`, utilizando o framework de testes `pytest`. Os testes verificam o comportamento dos métodos da classe `Funcionario` em diferentes cenários.
 
